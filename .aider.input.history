@@ -1,8 +1,0 @@
-
-# 2023-07-10 12:08:45.703863
-+python -m weatherterm --help is not working it's supposed to show a lot of information regarding the usage of the application. I am receiving an error: C:\Users\Sourav\Desktop\WeatherApp\weatherterm\Scripts\python.exe: No module named weatherterm.__main__; 'weatherterm' is a package and cannot be directly executed
-
-# 2023-07-10 12:11:52.719352
-+python -m weatherterm --help is not working it's supposed to show a lot of information regarding the usage of the application. I am  
-+receiving an error: C:\Users\Sourav\Desktop\WeatherApp\weatherterm\Scripts\python.exe: No module named weatherterm.__main__; 'weathert 
-+erm' is a package and cannot be directly executed
